@@ -1,0 +1,15 @@
+PuzzlePlatforms/Binaries
+PuzzlePlatforms/DerivedDataCache
+PuzzlePlatforms/Intermediate
+PuzzlePlatforms/Saved
+PuzzlePlatforms/enc_temp_folder
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
