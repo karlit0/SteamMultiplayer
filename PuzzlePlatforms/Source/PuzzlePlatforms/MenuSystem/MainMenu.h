@@ -22,6 +22,8 @@ class PUZZLEPLATFORMS_API UMainMenu : public UMenuWidget
 public:
 	UMainMenu(const FObjectInitializer& ObjectInitializer);
 
+	void SetServerList(TArray<FString> ServerNames);
+
 protected:
 	virtual bool Initialize() override;
 

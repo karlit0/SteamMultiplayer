@@ -40,6 +40,8 @@ public:
 
 	virtual void LoadMainMenu() override;
 
+	void RefreshServerList() override;
+
 private:
 	TSubclassOf<UUserWidget> MenuClass;
 	TSubclassOf<UUserWidget> InGameMenuClass;
